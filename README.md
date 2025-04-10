@@ -28,3 +28,4 @@
 | [nuxt3-blog](https://github.com/Kemeow815/nuxt3-blog/tree/master) | <https://nuxt.kemiaosw.top/> |
 | [HeoMusic](https://github.com/Kemeow815/HeoMusic) | <https://music.kemiao.online> |
 | [plain-blog](https://github.com/Kemeow815/plain-blog-website) | <https://plain-blog.kemeow.top> |
+| [Astro-Lithium-kemiao](https://github.com/Kemeow815/Astro-Lithium-kemiao) | <https://me.kemeow.cn> |
