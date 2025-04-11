@@ -28,3 +28,4 @@
 | [nuxt3-blog](https://github.com/Kemeow815/nuxt3-blog/tree/master) | <https://nuxt.kemiaosw.top/> |
 | [HeoMusic](https://github.com/Kemeow815/HeoMusic) | <https://music.kemiao.online> |
 | [plain-blog](https://github.com/Kemeow815/plain-blog-kemiao) | <https://me.kemeow.cn> |
+| [jekyll-theme-chirpy](https://github.com/Kemeow815/kemiao-blog-chripy) | <https://boke.kemiao.online> |
