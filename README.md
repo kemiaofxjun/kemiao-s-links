@@ -31,3 +31,4 @@
 | [jekyll-theme-chirpy](https://github.com/Kemeow815/kemiao-blog-chripy) | <https://boke.kemiao.online> |
 | [nuxt-blog-issues](https://github.com/Kemeow815/issue-nuxt-blog-kemiao) | <https://issue.kemiaosw.top> |
 | [astro-Frosti-kemiao](https://github.com/Kemeow815/astro-Frosti-kemiao) | <https://kmblog.kemiaosw.top> |
+| [astro-blog-CN](https://github.com/Kemeow815/astro-blog) | <https://myblog.kemeow.cn> | 
