@@ -33,3 +33,4 @@
 | [astro-Frosti-kemiao](https://github.com/Kemeow815/astro-Frosti-kemiao) | <https://kmblog.kemiaosw.top> |
 | [astro-blog-CN](https://github.com/Kemeow815/astro-blog) | <https://myblog.kemeow.cn> | 
 | [gblog-kemiao](https://github.com/Kemeow815/gblog-kemiao) | <https://www.kemiaosw.top> |
+| [kemiao-homepage](https://github.com/Kemeow815/Soopy-kemiao) | <https://kemiaofx.cn> |
