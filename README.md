@@ -21,7 +21,7 @@
 | [hexo-kratos](https://github.com/Kemeow815/hexo-kratos-kemiao-blog) | <https://site.kemeow.cn> |
 | [site-status](https://github.com/Kemeow815/site-status-kemiao-ims) | <https://status.kemeow.cn> |
 | [hexo-fluid](https://github.com/Kemeow815/hexo-fluid-kemiao) | <https://star.kemeow.cn> |
-| [hexo-fluid](https://github.com/Kemeow815/hexo-cards-kemiao) | <https://net.kemeow.cn> |
+| [hexo-cards](https://github.com/Kemeow815/hexo-cards-kemiao) | <https://net.kemeow.cn> |
 | [Uptime-Status-kemiao](https://github.com/Kemeow815/Uptime-Status-kemiao) | <https://montor.kemeow.cn> |
 | [BroadcastChannel](https://github.com/Kemeow815/BroadcastChannel) | <https://shuoshuo.kemiao.online> |
 | [my_blog_kemiao ](https://github.com/Kemeow815/my_blog_kemiao)| <https://cc.kemiao.online> |
