@@ -34,3 +34,5 @@
 | [astro-blog-CN](https://github.com/Kemeow815/astro-blog) | <https://myblog.kemeow.cn> | 
 | [gblog-kemiao](https://github.com/Kemeow815/gblog-kemiao) | <https://www.kemiaosw.top> |
 | [kemiao-homepage](https://github.com/Kemeow815/Soopy-kemiao) | <https://kemiaofx.cn> |
+| [next-issue-blog](https://github.com/Kemeow815/next-issue-blog) | <https://net.kemiaofx.cn> |
+| [LibreTV-kemiao](https://github.com/Kemeow815/LibreTV-kemiao) | <https://tv.kemeow.top> |
