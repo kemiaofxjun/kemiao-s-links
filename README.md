@@ -39,4 +39,4 @@
 | [php-homepage](https://github.com/Kemeow815/php-homepage) | <https://home.kemiaofx.cn> |
 | [Home-Vue](https://github.com/Kemeow815/Home-Vue) | <https://kemiao.online> |
 | [kemiao-home-page](https://github.com/Kemeow815/kemiao-home-page) | <https://www.kemeow.top> |
-| [blog-kemiao](https://github.com/Kemeow815/blog-kemiao) | <https://blog.kemiaofx.cn> |
+| [blog-kemiao](https://github.com/Kemeow815/blog-kemiao) | <https://myblog.kemiao.online> |
