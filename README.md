@@ -41,3 +41,4 @@
 | [kemiao-home-page](https://github.com/Kemeow815/kemiao-home-page) | <https://www.kemeow.top> |
 | [blog-kemiao](https://github.com/Kemeow815/blog-kemiao) | <https://myblog.kemiao.online> |
 | [remio-home-kemiao](https://github.com/Kemeow815/remio-home-kemiao) | <https://i.kemiaosw.top> |
+| [homepage-for-vue3](https://github.com/Kemeow815/homepage-for-vue3) | <https://hi.kemiaosw.top> |
