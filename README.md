@@ -47,3 +47,4 @@
 | [HomePage_kemiao](https://github.com/Kemeow815/HomePage_kemiao) | <https://home.kemeow.top> |
 | [hope-vuepress-kemiao](https://github.com/Kemeow815/hope-vuepress-kemiao) | <https://i.kemeow.cn> |
 | [guide-kemiao](https://github.com/Kemeow815/guide-kemiao) | <https://home.152531.xyz> |
+| [nextblog-kemiao](https://github.com/Kemeow815/nextblog-kemiao) | <https://blog.152531.xyz> |
