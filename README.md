@@ -11,7 +11,7 @@
 | [astro-v2](https://github.com/Kemeow815/meter-kemiao-blog) | <https://blogs.kemiao.online> |
 | [hugo-moment](https://github.com/Kemeow815/Moments_kemiao) | <https://moments.kemiao.online> |
 | [hexo-sea](https://github.com/Kemeow815/hexo-sea-kemaio) | <https://sea.kemiao.online> |
-| [astro-v3](https://github.com/Kemeow815/astro-main-blog) | <https://kmblog.kemeow.top> |
+| [astro-main-blog](https://github.com/Kemeow815/astro-main-blog) | <https://kmblog.kemeow.top> |
 | [suzublog](https://github.com/Kemeow815/suzublog-kemiaoblog) | <https://blog.kemiao.online> |
 | [vhastro](https://github.com/Kemeow815/vhAstro--kemiao) | <https://zhan.kemiao.online> |
 | [hexo-shokax ](https://github.com/Kemeow815/hexo-shokax-kemiao)| <https://shokax.kemeow.top> |
