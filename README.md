@@ -49,3 +49,4 @@
 | [guide-kemiao](https://github.com/Kemeow815/guide-kemiao) | <https://home.152531.xyz> |
 | [nextblog-kemiao](https://github.com/Kemeow815/nextblog-kemiao) | <https://blog.152531.xyz> |
 | [astro-mecure-kemiao](https://github.com/Kemeow815/astro-mecure-kemiao) | <https://blog.kemiao.xyz> |
+| [nuxt-profilo](https://github.com/Kemeow815/nuxt-profilo) | <https://blog.kemiao.xyz> |
