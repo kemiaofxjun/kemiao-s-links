@@ -50,3 +50,4 @@
 | [nextblog-kemiao](https://github.com/Kemeow815/nextblog-kemiao) | <https://blog.152531.xyz> |
 | [astro-mecure-kemiao](https://github.com/Kemeow815/astro-mecure-kemiao) | <https://blog.kemiao.xyz> |
 | [nuxt-profilo](https://github.com/Kemeow815/nuxt-profilo) | <https://home.kemiao.xyz> |
+| [rin](https://github.com/Kemeow815/Rin-kemiao) | <https://www.kemiao.xyz> |
