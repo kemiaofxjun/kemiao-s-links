@@ -54,3 +54,4 @@
 | typecho | <https://boke.kemiao.xyz> |
 | wordpress | <https://myblog.152531.xyz> |
 | [wechat-kemiao](https://github.com/Kemeow815/Wechat-kemiao) | <https://wechat.kemeow.top> |
+| [donate-kemiao](https://github.com/Kemeow815/donate-kemiao) | <https://donate.152531.xyz> |
