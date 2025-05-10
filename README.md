@@ -56,3 +56,4 @@
 | [wechat-kemiao](https://github.com/Kemeow815/Wechat-kemiao) | <https://wechat.kemeow.top> |
 | [donate-kemiao](https://github.com/Kemeow815/donate-kemiao) | <https://donate.152531.xyz> |
 | [Triangle-blog](https://github.com/Kemeow815/Triangle-blog) | <https://boke.152531.xyz> | 
+| [Kemiaojun.github.io](https://github.com/Kemiaojun/Kemiaojun.github.io) | <https://blog.kemiao.site> |
