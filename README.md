@@ -58,3 +58,4 @@
 | [Triangle-blog](https://github.com/Kemeow815/Triangle-blog) | <https://boke.152531.xyz> | 
 | [Kemiaojun.github.io](https://github.com/Kemiaojun/Kemiaojun.github.io) | <https://blog.kemiao.site> |
 | [blog-zhangyu](https://github.com/Kemiaojun/blog-kemiao-zhangyu) | <https://www.kemiao.site> |
+| [tinymind-blog](https://github.com/Kemeow815/tinymind-blog) | <https://tinymind.me/Kemeow815> |
