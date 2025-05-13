@@ -12,7 +12,7 @@
 | [hugo-moment](https://github.com/Kemeow815/Moments_kemiao) | <https://moments.kemiao.online> |
 | [hexo-sea](https://github.com/Kemeow815/hexo-sea-kemaio) | <https://sea.kemiao.online> |
 | [astro-main-blog](https://github.com/Kemeow815/astro-main-blog) | <https://kmblog.kemeow.top> |
-| [suzublog](https://github.com/Kemeow815/suzublog-kemiaoblog) | <https://blog.kemiao.online> |
+| [suzublog](https://github.com/Kemeow815/kemiao-suzublog) | <https://me.kemeow.top> |
 | [vhastro](https://github.com/Kemeow815/vhAstro--kemiao) | <https://zhan.kemiao.online> |
 | [hexo-shokax ](https://github.com/Kemeow815/hexo-shokax-kemiao)| <https://shokax.kemeow.top> |
 | [hexo-stellar-mogai](https://github.com/Kemeow815/hexo-stellar-mogai) | <https://stellar-blog.kemiao.online> |
@@ -28,7 +28,7 @@
 | [nuxt3-blog](https://github.com/Kemeow815/nuxt3-blog/tree/master) | <https://nuxt.kemiaosw.top> |
 | [HeoMusic](https://github.com/Kemeow815/HeoMusic) | <https://music.kemiao.online> |
 | [plain-blog](https://github.com/Kemeow815/plain-blog-kemiao) | <https://me.kemeow.cn> |
-| [jekyll-theme-chirpy](https://github.com/Kemeow815/kemiao-blog-chripy) | <https://boke.kemiao.online> |
+| [jekyll-theme-chirpy](https://github.com/Kemeow815/kemiao-blog-chripy) | <https://me.kemiaosw.top> |
 | [nuxt-blog-issues](https://github.com/Kemeow815/issue-nuxt-blog-kemiao) | <https://issue.kemiaosw.top> |
 | [astro-Frosti-kemiao](https://github.com/Kemeow815/astro-Frosti-kemiao) | <https://kmblog.kemiaosw.top> |
 | [astro-blog-CN](https://github.com/Kemeow815/astro-blog) | <https://myblog.kemeow.cn> | 
