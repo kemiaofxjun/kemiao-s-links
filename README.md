@@ -59,3 +59,5 @@
 | [Kemiaojun.github.io](https://github.com/Kemiaojun/Kemiaojun.github.io) | <https://blog.kemiao.site> |
 | [blog-zhangyu](https://github.com/Kemiaojun/blog-kemiao-zhangyu) | <https://www.kemiao.site> |
 | [tinymind-blog](https://github.com/Kemeow815/tinymind-blog) | <https://tinymind.me/Kemeow815> |
+| [kemiao-news](https://github.com/Kemeow815/kemiao-news) | <https://news.kemiao.online> |
+| [astro-LogicLyric-kemiao](https://github.com/Kemeow815/astro-LogicLyric-kemiao) | <https://me.kemiao.site> |
