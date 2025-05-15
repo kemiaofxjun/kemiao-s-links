@@ -24,12 +24,10 @@
 | [hexo-cards](https://github.com/Kemeow815/hexo-cards-kemiao) | <https://net.kemeow.cn> |
 | [Uptime-Status-kemiao](https://github.com/Kemeow815/Uptime-Status-kemiao) | <https://montor.kemeow.cn> |
 | [BroadcastChannel](https://github.com/Kemeow815/BroadcastChannel) | <https://shuoshuo.kemiao.online> |
-| [my_blog_kemiao ](https://github.com/Kemeow815/my_blog_kemiao)| <https://cc.kemiao.online> |
 | [nuxt3-blog](https://github.com/Kemeow815/nuxt3-blog/tree/master) | <https://nuxt.kemiaosw.top> |
 | [HeoMusic](https://github.com/Kemeow815/HeoMusic) | <https://music.kemiao.online> |
 | [plain-blog](https://github.com/Kemeow815/plain-blog-kemiao) | <https://me.kemeow.cn> |
 | [jekyll-theme-chirpy](https://github.com/Kemeow815/kemiao-blog-chripy) | <https://me.kemiaosw.top> |
-| [nuxt-blog-issues](https://github.com/Kemeow815/issue-nuxt-blog-kemiao) | <https://issue.kemiaosw.top> |
 | [astro-Frosti-kemiao](https://github.com/Kemeow815/astro-Frosti-kemiao) | <https://kmblog.kemiaosw.top> |
 | [astro-blog-CN](https://github.com/Kemeow815/astro-blog) | <https://myblog.kemeow.cn> | 
 | [gblog-kemiao](https://github.com/Kemeow815/gblog-kemiao) | <https://www.kemiaosw.top> |
