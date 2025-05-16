@@ -59,3 +59,4 @@
 | [tinymind-blog](https://github.com/Kemeow815/tinymind-blog) | <https://tinymind.me/Kemeow815> |
 | [kemiao-news](https://github.com/Kemeow815/kemiao-news) | <https://news.kemiao.online> |
 | [astro-LogicLyric-kemiao](https://github.com/Kemeow815/astro-LogicLyric-kemiao) | <https://me.kemiao.site> |
+| [kemiao-next-blog](https://github.com/Kemeow815/kemiao-next-blog) | <https://myblog.kemiaofx.cn> |
