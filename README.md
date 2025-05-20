@@ -2,9 +2,9 @@
 
 ## 博客页面
 
-| 博客名字+仓库 | 地址 |
-| :---: | :---: |
-| [blog-v3](https://github.com/Kemeow815/blog-v3) |<https://blog-v3.kemeow.top>|
+| 博客名字+仓库 | 地址 | 备注 |
+| :---: | :---: | :---: |
+| [blog-v3](https://github.com/Kemeow815/blog-v3) |<https://blog-v3.kemeow.top>| 基于nuxt的全栈博客，感谢[纸鹿](https://blog.zhilu.cyou/)开源 |
 | [nuxt主页](https://github.com/Kemeow815/blog-homepage-v5) |<https://www.kemiao.online>|
 | [Github Pages](https://github.com/Kemeow815/Kemeow815.github.io) | <https://myblog.kemeow.top> |
 | [astro-v1](https://github.com/Kemeow815/blog-astro-kemiao) | <https://cn.kemiao.online> |
@@ -61,3 +61,4 @@
 | [kemiao-next-blog](https://github.com/Kemeow815/kemiao-next-blog) | <https://myblog.kemiaofx.cn> |
 | [Astro-Lithium-kemiao](https://github.com/Kemeow815/Astro-Lithium-kemiao) | <https://i.kemiao.online> |
 | [kemiao-astro-blog](https://github.com/Kemeow815/kemiao-astro-blog) | <https://myblogs.kemiao.online> |
+| [kemiao-Merger-Plus](https://github.com/Kemeow815/kemiao-Merger-Plus) | <https://donate.kemeow.top> |
