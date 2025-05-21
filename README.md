@@ -62,3 +62,4 @@
 | [Astro-Lithium-kemiao](https://github.com/Kemeow815/Astro-Lithium-kemiao) | <https://i.kemiao.online> |
 | [kemiao-astro-blog](https://github.com/Kemeow815/kemiao-astro-blog) | <https://myblogs.kemiao.online> |
 | [kemiao-Merger-Plus](https://github.com/Kemeow815/kemiao-Merger-Plus) | <https://donate.kemeow.top> |
+| [kemiao-Duckfolio](https://github.com/Kemeow815/kemiao-Duckfolio) | <https://home.kemiao.site> | 不错的主页，基于Duckfolio |
