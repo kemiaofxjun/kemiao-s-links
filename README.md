@@ -7,7 +7,7 @@
 | [blog-v3](https://github.com/Kemeow815/blog-v3) |<https://blog-v3.kemeow.top>| 基于nuxt的全栈博客，感谢[纸鹿](https://blog.zhilu.cyou/)开源 |
 | [nuxt主页](https://github.com/Kemeow815/blog-homepage-v5) |<https://www.kemiao.online>| [纸鹿](https://blog.zhilu.cyou/)的主页修改版 |
 | [Github Pages](https://github.com/Kemeow815/Kemeow815.github.io) | <https://myblog.kemeow.top> | wallleap的github issue博客之一 |
-| [astro-v1](https://github.com/Kemeow815/blog-astro-kemiao) | <https://cn.kemiao.online> |
+| [astro-v1](https://github.com/Kemeow815/kemiao-astro-blog) | <https://cn.kemiao.online> |
 | [astro-v2](https://github.com/Kemeow815/meter-kemiao-blog) | <https://blogs.kemiao.online> |
 | [hugo-moment](https://github.com/Kemeow815/Moments_kemiao) | <https://moments.kemiao.online> |
 | [hexo-sea](https://github.com/Kemeow815/hexo-sea-kemaio) | <https://sea.kemiao.online> |
