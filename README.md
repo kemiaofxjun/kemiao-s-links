@@ -63,4 +63,4 @@
 | [kemiao-astro-blog](https://github.com/Kemeow815/kemiao-astro-blog) | <https://myblogs.kemiao.online> |
 | [kemiao-Merger-Plus](https://github.com/Kemeow815/kemiao-Merger-Plus) | <https://donate.kemeow.top> |
 | [kemiao-Duckfolio](https://github.com/Kemeow815/kemiao-Duckfolio) | <https://home.kemiao.site> | 不错的主页，基于Duckfolio |
-| [kemiao-PinkLin](https://github.com/Kemeow815/kemiao-PinkLine)e | <https://cc.kemiao.online> | 基于 PinkLine 的博客 |
+| [kemiao-PinkLine](https://github.com/Kemeow815/kemiao-PinkLine) | <https://cc.kemiao.online> | 基于 PinkLine 的博客 |
