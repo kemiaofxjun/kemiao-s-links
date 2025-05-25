@@ -9,11 +9,11 @@
 | [Github Pages](https://github.com/Kemeow815/Kemeow815.github.io) | <https://myblog.kemeow.top> | wallleap的github issue博客之一 |
 | [kemiao-astro-blog](https://github.com/Kemeow815/kemiao-astro-blog) | <https://myblogs.kemiao.online> | astropaper魔改 |
 | [meter-kemiao-blog](https://github.com/Kemeow815/meter-kemiao-blog) | <https://blogs.kemiao.online> |Devaradise模板魔改 | 
-| [hugo-moment](https://github.com/Kemeow815/Moments_kemiao) | <https://moments.kemiao.online> |
+| [hugo-moment](https://github.com/Kemeow815/Moments_kemiao) | <https://moments.kemiao.online> | 基于 hugo 的moment主题 |
 | [hexo-sea](https://github.com/Kemeow815/hexo-sea-kemaio) | <https://sea.kemiao.online> |
-| [astro-main-blog](https://github.com/Kemeow815/astro-main-blog) | <https://kmblog.kemeow.top> |
-| [suzublog](https://github.com/Kemeow815/kemiao-suzublog) | <https://me.kemeow.top> |
-| [vhastro](https://github.com/Kemeow815/vhAstro--kemiao) | <https://zhan.kemiao.online> |
+| [astro-main-blog](https://github.com/Kemeow815/astro-main-blog) | <https://kmblog.kemeow.top> | cworld1 的博客自用 |
+| [suzublog](https://github.com/Kemeow815/kemiao-suzu-blog) | <https://me.kemeow.top> | 基于suzublog 的博客 |
+| [vhastro](https://github.com/Kemeow815/vhAstro--kemiao) | <https://zhan.kemiao.online> | vhAstro 的博客二改 |
 | [hexo-shokax ](https://github.com/Kemeow815/hexo-shokax-kemiao)| <https://shokax.kemeow.top> |
 | [hexo-stellar-mogai](https://github.com/Kemeow815/hexo-stellar-mogai) | <https://stellar-blog.kemiao.online> |
 | [memobbs-kemiao](https://github.com/Kemeow815/memobbs-kemiao) | <https://memobbs.kemiao.online> |
@@ -23,13 +23,13 @@
 | [hexo-fluid](https://github.com/Kemeow815/hexo-fluid-kemiao) | <https://star.kemeow.cn> |
 | [hexo-cards](https://github.com/Kemeow815/hexo-cards-kemiao) | <https://net.kemeow.cn> |
 | [Uptime-Status-kemiao](https://github.com/Kemeow815/Uptime-Status-kemiao) | <https://montor.kemeow.cn> |
-| [BroadcastChannel](https://github.com/Kemeow815/BroadcastChannel) | <https://shuoshuo.kemiao.online> |
-| [nuxt3-blog](https://github.com/Kemeow815/nuxt3-blog/tree/master) | <https://nuxt.kemiaosw.top> |
-| [HeoMusic](https://github.com/Kemeow815/HeoMusic) | <https://music.kemiao.online> |
-| [plain-blog](https://github.com/Kemeow815/plain-blog-kemiao) | <https://me.kemeow.cn> |
-| [jekyll-theme-chirpy](https://github.com/Kemeow815/kemiao-blog-chripy) | <https://me.kemiaosw.top> |
-| [astro-Frosti-kemiao](https://github.com/Kemeow815/astro-Frosti-kemiao) | <https://kmblog.kemiaosw.top> |
-| [astro-blog-CN](https://github.com/Kemeow815/astro-blog) | <https://myblog.kemeow.cn> | 
+| [BroadcastChannel](https://github.com/Kemeow815/BroadcastChannel) | <https://shuoshuo.kemiao.online> | 克喵的电报动态说说 |
+| [nuxt3-blog](https://github.com/Kemeow815/nuxt3-blog/tree/master) | <https://nuxt.kemiaosw.top> | 克喵的 nuxt3 博客 |
+| [HeoMusic](https://github.com/Kemeow815/HeoMusic) | <https://music.kemiao.online> | 基于 HeoMusic 的二改音乐播放器 |
+| [plain-blog](https://github.com/Kemeow815/plain-blog-kemiao) | <https://me.kemeow.cn> | wallleap 的 plain 主题 |
+| [jekyll-theme-chirpy](https://github.com/Kemeow815/kemiao-blog-chripy) | <https://me.kemiaosw.top> | jekyll博客的 chripy 主题 |
+| [astro-Frosti-kemiao](https://github.com/Kemeow815/astro-Frosti-kemiao) | <https://kmblog.kemiaosw.top> | Frosti的astro博客 |
+| [astro-blog-CN](https://github.com/Kemeow815/astro-blog) | <https://myblog.kemeow.cn> | github issue的博客，基于仙人掌博客的二改 |
 | [gblog-kemiao](https://github.com/Kemeow815/gblog-kemiao) | <https://www.kemiaosw.top> |
 | [kemiao-homepage](https://github.com/Kemeow815/Soopy-kemiao) | <https://kemiaofx.cn> |
 | [LibreTV-kemiao](https://github.com/Kemeow815/LibreTV-kemiao) | <https://tv.kemeow.top> |
@@ -64,3 +64,4 @@
 | [kemiao-Merger-Plus](https://github.com/Kemeow815/kemiao-Merger-Plus) | <https://donate.kemeow.top> |
 | [kemiao-Duckfolio](https://github.com/Kemeow815/kemiao-Duckfolio) | <https://home.kemiao.site> | 不错的主页，基于Duckfolio |
 | [kemiao-PinkLine](https://github.com/Kemeow815/kemiao-PinkLine) | <https://cc.kemiao.online> | 基于 PinkLine 的博客 |
+| [kemiao-astro-air](https://github.com/Kemeow815/kemiao-astro-air) | <https://kmblog.kemeow.top> | astro的air主题 |
