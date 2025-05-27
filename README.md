@@ -36,7 +36,7 @@
 | [php-homepage](https://github.com/Kemeow815/php-homepage) | <https://home.kemiaofx.cn> |
 | [Home-Vue](https://github.com/Kemeow815/Home-Vue) | <https://kemiao.online> |
 | [kemiao-home-page](https://github.com/Kemeow815/kemiao-home-page) | <https://www.kemeow.top> |
-| [blog-kemiao](https://github.com/Kemeow815/blog-kemiao) | <https://myblog.kemiao.online> |
+| [blog-kemiao](https://github.com/Kemeow815/blog-kemiao) | <https://myblog.kemiao.online> | kuizuo大佬的博客自用 |
 | [remio-home-kemiao](https://github.com/Kemeow815/remio-home-kemiao) | <https://i.kemiaosw.top> |
 | [homepage-for-vue3](https://github.com/Kemeow815/homepage-for-vue3) | <https://hi.kemiaosw.top> |
 | [kemiao-Home](https://github.com/Kemeow815/kemiao-Home) | <https://hi.kemeow.top> |
