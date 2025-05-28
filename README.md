@@ -55,7 +55,7 @@
 | [Triangle-blog](https://github.com/Kemeow815/Triangle-blog) | <https://boke.152531.xyz> | 
 | [Kemiaojun.github.io](https://github.com/Kemiaojun/Kemiaojun.github.io) | <https://blog.kemiao.site> |
 | [blog-zhangyu](https://github.com/Kemiaojun/blog-kemiao-zhangyu) | <https://www.kemiao.site> |
-| [tinymind-blog](https://github.com/Kemeow815/tinymind-blog) | <https://tinymind.me/Kemeow815> |
+| [tinymind-blog](https://github.com/Kemeow815/tinymind-blog) | <https://tinymind.me/Kemeow815> | 一个可以在线上写文章和想法的博客 |
 | [kemiao-news](https://github.com/Kemeow815/kemiao-news) | <https://news.kemiao.online> |
 | [astro-LogicLyric-kemiao](https://github.com/Kemeow815/astro-LogicLyric-kemiao) | <https://me.kemiao.site> |
 | [kemiao-next-blog](https://github.com/Kemeow815/kemiao-next-blog) | <https://myblog.kemiaofx.cn> |
@@ -65,3 +65,4 @@
 | [kemiao-Duckfolio](https://github.com/Kemeow815/kemiao-Duckfolio) | <https://home.kemiao.site> | 不错的主页，基于Duckfolio |
 | [kemiao-PinkLine](https://github.com/Kemeow815/kemiao-PinkLine) | <https://cc.kemiao.online> | 基于 PinkLine 的博客 |
 | [kemiao-astro-air](https://github.com/Kemeow815/kemiao-astro-air) | <https://kmblog.kemeow.top> | astro的air主题 |
+| [kemiao-LineXic-blog](https://github.com/Kemeow815/kemiao-LineXic-blog) | <https://blog-v2.kemeow.top> | 基于koi的astro博客三改 |
