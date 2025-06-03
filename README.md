@@ -69,3 +69,4 @@
 | [kemiao-astro-yi](https://github.com/Kemeow815/kemiao-astro-yi) | <https://blog-v6.kemeow.top> | 基于astro的yi主题的博客 |
 | [kemiao-astro-blog-zozo](https://github.com/Kemeow815/kemiao-astro-blog-zozo) | <https://blog-v8.kemeow.top> | zozo主题的博客二改 |
 | [kemiao-Epiphyllum](https://github.com/Kemeow815/kemiao-Epiphyllum) | <https://blog-v7.kemeow.top> | Epiphyllum的next博客自用 |
+| [kemiao-isyangs](https://github.com/Kemeow815/kemiao-isyangs) | <https://blog-v3.kemiaosw.top> | 基于isyang的博客自用加二改 |
