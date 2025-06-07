@@ -72,3 +72,4 @@
 | [kemiao-isyangs](https://github.com/Kemeow815/kemiao-isyangs) | <https://blog-v3.kemiaosw.top> | 基于isyang的博客自用加二改 |
 | [kemiao-blog-paper](https://github.com/Kemeow815/kemiao-blog-paper) | <https://blog-v1.kemiaosw.top> | next微博客 |
 | [kemiao-blog-theme-mono](https://github.com/Kemeow815/kemiao-hugo-theme-mono) | <https://blog-v2.kemiaosw.top> | 克喵的hugo-theme-mono博客 |
+| [kemiao-hugo-dream](https://github.com/Kemeow815/kemiao-hugo-dream) | <https://blog-v4.kemiaosw.top> | 基于hugo的dream的博客 |
