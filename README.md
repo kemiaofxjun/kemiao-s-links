@@ -74,3 +74,4 @@
 | [kemiao-blog-theme-mono](https://github.com/Kemeow815/kemiao-hugo-theme-mono) | <https://blog-v2.kemiaosw.top> | 克喵的hugo-theme-mono博客 |
 | [kemiao-hugo-dream](https://github.com/Kemeow815/kemiao-hugo-dream) | <https://blog-v4.kemiaosw.top> | 基于hugo的dream的博客 |
 | [kemiao-micro](https://github.com/Kemeow815/kemiao-astro-micro) | <https://blog-v5.kemiaosw.top> | 基于astro的micro主题 |
+| [kemiao-astro-cactus](https://github.com/Kemeow815/kemiao-astro-cactus) | <https://blog-v6.kemiaosw.top> | 克喵的仙人掌主题astro博客二改 |
