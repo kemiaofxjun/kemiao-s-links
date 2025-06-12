@@ -52,7 +52,7 @@
 | wordpress | <https://myblog.152531.xyz> |
 | [wechat-kemiao](https://github.com/Kemeow815/Wechat-kemiao) | <https://wechat.kemeow.top> |
 | [donate-kemiao](https://github.com/Kemeow815/donate-kemiao) | <https://donate.152531.xyz> |
-| [Triangle-blog](https://github.com/Kemeow815/Triangle-blog) | <https://boke.152531.xyz> | 
+| [Triangle-blog](https://github.com/Kemeow815/Triangle-blog) | <https://boke.152531.xyz> | 暂时放弃，未来可能恢复 |
 | [Kemiaojun.github.io](https://github.com/Kemiaojun/Kemiaojun.github.io) | <https://blog.kemiao.site> |
 | [blog-zhangyu](https://github.com/Kemiaojun/blog-kemiao-zhangyu) | <https://www.kemiao.site> |
 | [tinymind-blog](https://github.com/Kemeow815/tinymind-blog) | <https://tinymind.me/Kemeow815> | 一个可以在线上写文章和想法的博客 |
