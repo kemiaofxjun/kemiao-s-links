@@ -44,11 +44,11 @@
 | [HomePage_kemiao](https://github.com/Kemeow815/HomePage_kemiao) | <https://home.kemeow.top> |
 | [hope-vuepress-kemiao](https://github.com/Kemeow815/hope-vuepress-kemiao) | <https://i.kemeow.cn> |
 | [guide-kemiao](https://github.com/Kemeow815/guide-kemiao) | <https://home.152531.xyz> |
-| [nextblog-kemiao](https://github.com/Kemeow815/nextblog-kemiao) | <https://blog.152531.xyz> |
+| [下一处blog-kemiao](https://github.com/Kemeow815/nextblog-kemiao) | <https://blog.152531.xyz> |
 | [astro-mecure-kemiao](https://github.com/Kemeow815/astro-mecure-kemiao) | <https://blog.kemiao.xyz> |
 | [nuxt-profilo](https://github.com/Kemeow815/nuxt-profilo) | <https://home.kemiao.xyz> |
 | [rin](https://github.com/Kemeow815/Rin-kemiao) | <https://www.kemiao.xyz> |
-| typecho | <https://boke.kemiao.xyz> |
+| typecho | <https://boke.kemiao.xyz> | cuckoo主题，暂时放弃 |
 | wordpress | <https://myblog.152531.xyz> |
 | [wechat-kemiao](https://github.com/Kemeow815/Wechat-kemiao) | <https://wechat.kemeow.top> |
 | [donate-kemiao](https://github.com/Kemeow815/donate-kemiao) | <https://donate.152531.xyz> |
@@ -76,3 +76,4 @@
 | [kemiao-micro](https://github.com/Kemeow815/kemiao-astro-micro) | <https://blog-v5.kemiaosw.top> | 基于astro的micro主题 |
 | [kemiao-astro-cactus](https://github.com/Kemeow815/kemiao-astro-cactus) | <https://blog-v6.kemiaosw.top> | 克喵的仙人掌主题astro博客二改 |
 | [icsfox](https://github.com/xiaopanglian/icefox) | <http//pyq.kemiao.online> | typecho仿朋友圈主题 |
+| [TimePlus](https://github.com/zhheo/TimePlus) | <http://photo.kemiao.online> | 张洪的timePlus自用 |
