@@ -77,3 +77,4 @@
 | [kemiao-astro-cactus](https://github.com/Kemeow815/kemiao-astro-cactus) | <https://blog-v6.kemiaosw.top> | 克喵的仙人掌主题astro博客二改 |
 | [icsfox](https://github.com/xiaopanglian/icefox) | <http//pyq.kemiao.online> | typecho仿朋友圈主题 |
 | [TimePlus](https://github.com/zhheo/TimePlus) | <http://photo.kemiao.online> | 张洪的timePlus自用 |
+| [rss-beauty](https://github.com/Kemeow815/kemiao-RSS.Beauty) | <https://rss.kemeow.top> | Make Your RSS Beautiful! |
