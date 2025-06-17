@@ -11,7 +11,7 @@
 | [meter-kemiao-blog](https://github.com/Kemeow815/meter-kemiao-blog) | <https://blogs.kemiao.online> |Devaradise模板魔改 | 
 | [hugo-moment](https://github.com/Kemeow815/Moments_kemiao) | <https://moments.kemiao.online> | 基于 hugo 的moment主题 |
 | [hexo-sea](https://github.com/Kemeow815/hexo-sea-kemaio) | <https://sea.kemiao.online> |
-| [astro-main-blog](https://github.com/Kemeow815/astro-main-blog) | <https://kmblog.kemeow.top> | cworld1 的博客自用 |
+| [kemiao-astro-theme-pure](https://github.com/Kemeow815/kemiao-astro-theme-pure) | <https://kmblog.kemeow.top> | astro-pure 的博客自用 |
 | [suzublog](https://github.com/Kemeow815/kemiao-suzu-blog) | <https://me.kemeow.top> | 基于suzublog 的博客 |
 | [vhastro](https://github.com/Kemeow815/vhAstro--kemiao) | <https://zhan.kemiao.online> | vhAstro 的博客二改 |
 | [hexo-shokax ](https://github.com/Kemeow815/hexo-shokax-kemiao)| <https://shokax.kemeow.top> |
