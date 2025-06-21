@@ -22,7 +22,7 @@
 | [site-status](https://github.com/Kemeow815/site-status-kemiao-ims) | <https://status.kemeow.cn> |
 | [hexo-fluid](https://github.com/Kemeow815/hexo-fluid-kemiao) | <https://star.kemeow.cn> |
 | [hexo-cards](https://github.com/Kemeow815/hexo-cards-kemiao) | <https://net.kemeow.cn> |
-| [Uptime-Status-kemiao](https://github.com/Kemeow815/Uptime-Status-kemiao) | <https://montor.kemeow.cn> |
+| [Uptime-Status-kemiao](https://github.com/Kemeow815/Uptime-Status-kemiao) | <https://status.kemeow.top> | 克喵的网站监测页面 |
 | [BroadcastChannel](https://github.com/Kemeow815/BroadcastChannel) | <https://shuoshuo.kemiao.online> | 克喵的电报动态说说 |
 | [nuxt3-blog](https://github.com/Kemeow815/nuxt3-blog/tree/master) | <https://nuxt.kemiaosw.top> | 克喵的 nuxt3 博客 |
 | [HeoMusic](https://github.com/Kemeow815/HeoMusic) | <https://music.kemiao.online> | 基于 HeoMusic 的二改音乐播放器 |
