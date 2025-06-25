@@ -80,4 +80,5 @@
 | [rss-beauty](https://github.com/Kemeow815/kemiao-RSS.Beauty) | <https://rss.kemeow.top> | Make Your RSS Beautiful! |
 | [kemiao-astro-aria](https://github.com/Kemeow815/kemiao-astro-aria) | <https://kemiaosw.top> | astro-aria主题博客自用 |
 | [kemiao-astro-stalux](https://github.com/Kemeow815/kemiao-astro-stalux) | <https://blog.050815.xyz> | Stalux - 高效、美观、灵活的 Astro 博客 |
+| [kemiao-hugo-bear](https://github.com/Kemeow815/kemiao-hugo-blog-bear) | <https://blog.kemiaosw.top> | hugo的bear主题 |
 | [kemiao-album](https://github.com/Kemeow815/kemiao-album) | <https://photo.kemeow.top> | 基于github的相册 |
