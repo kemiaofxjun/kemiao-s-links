@@ -86,3 +86,6 @@
 | [kemiao-twiify-home-page](https://github.com/Kemeow815/kemiao-twiify-home-page) | <https://homepage.kemeow.top> | My personal website homepage. | 
 | [github-gwitter](https://github.com/Kemeow815/kemiao-Gwitter) | <https://pyq.kemiaosw.top> | 基于Github issues的microblog |
 | [Moments](https://github.com/Kemeow815/kemiao-moments) | <https://moment.050815.xyz> | Moments朋友圈部署 |
+| [astro-theme-code](https://github.com/Kemeow815/kemiao-astro-theme-code) | <https://myblog.050815.xyz> | 一个简单的 Astro 博客主题。 |
+| [lin-snow-meting](https://github.com/Kemeow815/kemiao-meting) | <https://meting.kemiaosw.top> | meting的api |
+| [lin-snow-Ech0](https://github.com/Kemeow815/kemiao-Ech0) | <https://pyq.050815.xyz> | Ech0 - 开源、自托管、专注思想流动的轻量级发布平台 |
