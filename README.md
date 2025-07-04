@@ -89,3 +89,4 @@
 | [astro-theme-code](https://github.com/Kemeow815/kemiao-astro-theme-code) | <https://myblog.050815.xyz> | 一个简单的 Astro 博客主题。 |
 | [lin-snow-meting](https://github.com/Kemeow815/kemiao-meting) | <https://meting.kemiaosw.top> | meting的api |
 | [lin-snow-Ech0](https://github.com/Kemeow815/kemiao-Ech0) | <https://pyq.050815.xyz> | Ech0 - 开源、自托管、专注思想流动的轻量级发布平台 |
+| [kemiao-memos](https://github.com/Kemeow815/kemiao-memos) | <https://moment.kemiaosw.top> | memos前端页面 |
