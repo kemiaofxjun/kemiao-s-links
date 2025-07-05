@@ -87,7 +87,6 @@
 | [github-gwitter](https://github.com/Kemeow815/kemiao-Gwitter) | <https://pyq.kemiaosw.top> | 基于Github issues的microblog |
 | [Moments](https://github.com/Kemeow815/kemiao-moments) | <https://moment.050815.xyz> | Moments朋友圈部署 |
 | [astro-theme-code](https://github.com/Kemeow815/kemiao-astro-theme-code) | <https://myblog.050815.xyz> | 一个简单的 Astro 博客主题。 |
-| [lin-snow-meting](https://github.com/Kemeow815/kemiao-meting) | <https://meting.kemiaosw.top> | meting的api |
 | [lin-snow-Ech0](https://github.com/Kemeow815/kemiao-Ech0) | <https://pyq.050815.xyz> | Ech0 - 开源、自托管、专注思想流动的轻量级发布平台 |
 | [kemiao-memos](https://github.com/Kemeow815/kemiao-memos) | <https://moment.kemiaosw.top> | memos前端页面 |
 
@@ -96,4 +95,11 @@
 ## 自用服务
 | 名称 | 简介 | 网址 | 是否可用 |
 | :---: | :---: | :---: | :---: |
-| [CloudPaste](https://github.com/Kemeow815/kemiao-CloudPaste) | 于 Cloudflare 的在线剪贴板和文件分享服务，支持 Markdown 编辑和文件上传 | <https://cloud.kemeow.top> | - [x] 可用 |
+| [CloudPaste](https://github.com/Kemeow815/kemiao-CloudPaste) | 于 Cloudflare 的在线剪贴板和文件分享服务，支持 Markdown 编辑和文件上传 | <https://cloud.kemeow.top> | ✅ |
+| [Kemiao-Cover](https://github.com/Kemeow815/kemiao-Mini-Cover) | 简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面 | <https://cover.kemeow.top> | ✅ |
+| [kemiao-CoverView](https://github.com/Kemeow815/kemiao-CoverView) | 封面生成器 | <https://coverview.kemeow.top> | ✅ |
+| [kemiao-icon](https://github.com/Kemeow815/kemiao-icon) | 一个简单的工具，让你可以在完全不会图标设计的情况下，得到一个尚可使用的图标。 | <https://icon.kemeow.top> | ✅ |
+| [Umami](https://github.com/Kemeow815/umami-kemiao) | 克喵的Umami自建服务 | <https://unami-kemiao.kemiaosw.top> | ✅ |
+| [static](https://github.com/Kemeow815/cssjs) | 一些资源如css、js的存放仓库 | <https://source.314926.xyz> | ✅ |
+| [Feedme](https://github.com/Kemeow815/kemiao-FeedMe) | 用 AI 重新定义你的 RSS 阅读体验，轻松部署到 GitHub Pages / Docker | <httpd://feedme.kemeow.top> | ✅ |
+| [meting api](https://github.com/Kemeow815/kemiao-meting)) | 克喵的自建meting-api | <https://meting.kemiaosw.top> | ✅ |
