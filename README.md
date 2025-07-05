@@ -22,8 +22,6 @@
 | [site-status](https://github.com/Kemeow815/site-status-kemiao-ims) | <https://status.kemeow.cn> |
 | [hexo-fluid](https://github.com/Kemeow815/hexo-fluid-kemiao) | <https://star.kemeow.cn> |
 | [hexo-cards](https://github.com/Kemeow815/hexo-cards-kemiao) | <https://net.kemeow.cn> |
-| [Uptime-Status-kemiao](https://github.com/Kemeow815/Uptime-Status-kemiao) | <https://status.kemeow.top> | 克喵的网站监测页面 |
-| [BroadcastChannel](https://github.com/Kemeow815/BroadcastChannel) | <https://shuoshuo.kemiao.online> | 克喵的电报动态说说 |
 | [nuxt3-blog](https://github.com/Kemeow815/nuxt3-blog/tree/master) | <https://nuxt.kemiaosw.top> | 克喵的 nuxt3 博客 |
 | [HeoMusic](https://github.com/Kemeow815/HeoMusic) | <https://music.kemiao.online> | 基于 HeoMusic 的二改音乐播放器 |
 | [plain-blog](https://github.com/Kemeow815/plain-blog-kemiao) | <https://me.kemeow.cn> | wallleap 的 plain 主题 |
@@ -75,20 +73,13 @@
 | [kemiao-hugo-dream](https://github.com/Kemeow815/kemiao-hugo-dream) | <https://blog-v4.kemiaosw.top> | 基于hugo的dream的博客 |
 | [kemiao-micro](https://github.com/Kemeow815/kemiao-astro-micro) | <https://blog-v5.kemiaosw.top> | 基于astro的micro主题 |
 | [kemiao-astro-cactus](https://github.com/Kemeow815/kemiao-astro-cactus) | <https://blog-v6.kemiaosw.top> | 克喵的仙人掌主题astro博客二改 |
-| [icsfox](https://github.com/xiaopanglian/icefox) | <https://pyq.kemiao.online> | typecho仿朋友圈主题 |
-| [TimePlus](https://github.com/zhheo/TimePlus) | <https://photo.kemiao.online> | 张洪的timePlus自用 |
-| [rss-beauty](https://github.com/Kemeow815/kemiao-RSS.Beauty) | <https://rss.kemeow.top> | Make Your RSS Beautiful! |
 | [kemiao-astro-aria](https://github.com/Kemeow815/kemiao-astro-aria) | <https://kemiaosw.top> | astro-aria主题博客自用 |
 | [kemiao-astro-stalux](https://github.com/Kemeow815/kemiao-astro-stalux) | <https://blog.050815.xyz> | Stalux - 高效、美观、灵活的 Astro 博客 |
 | [kemiao-hugo-bear](https://github.com/Kemeow815/kemiao-hugo-blog-bear) | <https://blog.kemiaosw.top> | hugo的bear主题 |
-| [kemiao-album](https://github.com/Kemeow815/kemiao-album) | <https://photo.kemeow.top> | 基于github的相册 |
 | [iblog](https://github.com/Kemeow815/kemiao-IBlog) | <https://home.050815.xyz> | iblog主页 |
 | [kemiao-twiify-home-page](https://github.com/Kemeow815/kemiao-twiify-home-page) | <https://homepage.kemeow.top> | My personal website homepage. | 
 | [github-gwitter](https://github.com/Kemeow815/kemiao-Gwitter) | <https://pyq.kemiaosw.top> | 基于Github issues的microblog |
-| [Moments](https://github.com/Kemeow815/kemiao-moments) | <https://moment.050815.xyz> | Moments朋友圈部署 |
 | [astro-theme-code](https://github.com/Kemeow815/kemiao-astro-theme-code) | <https://myblog.050815.xyz> | 一个简单的 Astro 博客主题。 |
-| [lin-snow-Ech0](https://github.com/Kemeow815/kemiao-Ech0) | <https://pyq.050815.xyz> | Ech0 - 开源、自托管、专注思想流动的轻量级发布平台 |
-| [kemiao-memos](https://github.com/Kemeow815/kemiao-memos) | <https://moment.kemiaosw.top> | memos前端页面 |
 
 ---
 
@@ -103,3 +94,15 @@
 | [static](https://github.com/Kemeow815/cssjs) | 一些资源如css、js的存放仓库 | <https://source.314926.xyz> | ✅ |
 | [Feedme](https://github.com/Kemeow815/kemiao-FeedMe) | 用 AI 重新定义你的 RSS 阅读体验，轻松部署到 GitHub Pages / Docker | <httpd://feedme.kemeow.top> | ✅ |
 | [meting api](https://github.com/Kemeow815/kemiao-meting) | 克喵的自建meting-api | <https://meting.kemiaosw.top> | ✅ |
+| [keMiao Music](https://github.com/Kemeow815/HeoMusic) | 基于张洪heo的Heo Music | <https://music.kemiao.online> | ✅ |
+| [网易云音乐api](https://github.com/Kemeow815/NeteaseCloudMusicApiBackup) | 张洪heo的heomusic可用的api | <https://netease-api.kemiaosw.top/> | ✅ |
+| [LibreTV-kemiao](https://github.com/Kemeow815/LibreTV-kemiao) | 一键部署的影视站 | <https://tv.kemiaosw.top> | ✅ |
+| [uptime-status ](https://github.com/Kemeow815/Uptime-Status-kemiao)| 网站监测 | <https://status.kemeow.top> | ✅ |
+| [kemiao-memos](https://github.com/Kemeow815/kemiao-memos) | memos前端页面 | <https://moment.kemiaosw.top> | ✅ |
+| [lin-snow-Ech0](https://github.com/Kemeow815/kemiao-Ech0) | Ech0 - 开源、自托管、专注思想流动的轻量级发布平台 | <https://pyq.050815.xyz> | ✅ |
+| [Moments](https://github.com/Kemeow815/kemiao-moments) | Moments朋友圈部署 | <https://moment.050815.xyz> | ✅ |
+| [kemiao-album](https://github.com/Kemeow815/kemiao-album) | 基于github的相册 | <https://photo.kemeow.top> | ✅ |
+| [icsfox](https://github.com/xiaopanglian/icefox) | typecho仿朋友圈主题 |<https://pyq.kemiao.online> | ✅ |
+| [TimePlus](https://github.com/zhheo/TimePlus) | 张洪的timePlus自用 | <https://photo.kemiao.online> | ✅ |
+| [rss-beauty](https://github.com/Kemeow815/kemiao-RSS.Beauty) | Make Your RSS Beautiful! | <https://rss.kemeow.top> | ✅ |
+| [BroadcastChannel](https://github.com/Kemeow815/BroadcastChannel) | 克喵的电报动态说说 | <https://shuoshuo.kemiao.online> | ✅ |
