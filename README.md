@@ -102,4 +102,4 @@
 | [Umami](https://github.com/Kemeow815/umami-kemiao) | 克喵的Umami自建服务 | <https://unami-kemiao.kemiaosw.top> | ✅ |
 | [static](https://github.com/Kemeow815/cssjs) | 一些资源如css、js的存放仓库 | <https://source.314926.xyz> | ✅ |
 | [Feedme](https://github.com/Kemeow815/kemiao-FeedMe) | 用 AI 重新定义你的 RSS 阅读体验，轻松部署到 GitHub Pages / Docker | <httpd://feedme.kemeow.top> | ✅ |
-| [meting api](https://github.com/Kemeow815/kemiao-meting)) | 克喵的自建meting-api | <https://meting.kemiaosw.top> | ✅ |
+| [meting api](https://github.com/Kemeow815/kemiao-meting) | 克喵的自建meting-api | <https://meting.kemiaosw.top> | ✅ |
