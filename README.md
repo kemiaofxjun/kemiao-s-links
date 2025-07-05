@@ -96,4 +96,4 @@
 ## 自用服务
 | 名称 | 简介 | 网址 | 是否可用 |
 | :---: | :---: | :---: | :---: |
-| [CloudPaste](https://github.com/ling-drag0n/CloudPaste) | 于 Cloudflare 的在线剪贴板和文件分享服务，支持 Markdown 编辑和文件上传 | <https://cloud.kemeow.top> | - [x] |
+| [CloudPaste](https://github.com/Kemeow815/kemiao-CloudPaste) | 于 Cloudflare 的在线剪贴板和文件分享服务，支持 Markdown 编辑和文件上传 | <https://cloud.kemeow.top> | - [x] 可用 |
