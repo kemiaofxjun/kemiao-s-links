@@ -90,3 +90,10 @@
 | [lin-snow-meting](https://github.com/Kemeow815/kemiao-meting) | <https://meting.kemiaosw.top> | meting的api |
 | [lin-snow-Ech0](https://github.com/Kemeow815/kemiao-Ech0) | <https://pyq.050815.xyz> | Ech0 - 开源、自托管、专注思想流动的轻量级发布平台 |
 | [kemiao-memos](https://github.com/Kemeow815/kemiao-memos) | <https://moment.kemiaosw.top> | memos前端页面 |
+
+---
+
+## 自用服务
+| 名称 | 简介 | 网址 | 是否可用 |
+| :---: | :---: | :---: |
+| [CloudPaste](https://github.com/ling-drag0n/CloudPaste) | 于 Cloudflare 的在线剪贴板和文件分享服务，支持 Markdown 编辑和文件上传 | <https://cloud.kemeow.top> | - [x] |
