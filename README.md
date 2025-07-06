@@ -107,3 +107,5 @@
 | [rss-beauty](https://github.com/Kemeow815/kemiao-RSS.Beauty) | Make Your RSS Beautiful! | <https://rss.kemeow.top> | ✅ |
 | [BroadcastChannel](https://github.com/Kemeow815/BroadcastChannel) | 克喵的电报动态说说 | <https://shuoshuo.kemiao.online> | ✅ |
 | [cloud-mail](https://github.com/Kemeow815/cloud-mail) | cloud-mail邮箱 | <https://mail.kemeow.top> | ✅ |
+| [kemiao-YF-cloud](https://github.com/lumianya/YF-cloud) | YF-cloud资源分享平台| <https://fx.kemeow.top> | ✅ |
+| [kemiao-FlareDrive-R2 ](https://github.com/lumianya/kemiao-FlareDrive-R2)| 基于cloudflare的网盘 | <https://pan.kemeow.top> | ✅ |
