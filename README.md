@@ -106,3 +106,4 @@
 | [TimePlus](https://github.com/zhheo/TimePlus) | 张洪的timePlus自用 | <https://photo.kemiao.online> | ✅ |
 | [rss-beauty](https://github.com/Kemeow815/kemiao-RSS.Beauty) | Make Your RSS Beautiful! | <https://rss.kemeow.top> | ✅ |
 | [BroadcastChannel](https://github.com/Kemeow815/BroadcastChannel) | 克喵的电报动态说说 | <https://shuoshuo.kemiao.online> | ✅ |
+| [cloud-mail](https://github.com/Kemeow815/cloud-mail) | cloud-mail邮箱 | <https://meil.kemeow.top> | ✅ |
