@@ -112,3 +112,4 @@
 | [kemiao-next-chat](https://github.com/lumianya/kemiao-NextChat) | 克喵的ai页 | <https://ai.kemeow.top> | ✅ |
 | [克喵的相册馆](https://github.com/besscroft/PicImpact) | 基于PicImpact的相册馆 | <https://collection.kemeow.top> | ✅ |
 | [克喵的imgbed](https://github.com/lumianya/lumian-CloudFlare-ImgBed) | cloudflare的imgbed | <https://imgbed.kemeow.top> | ✅ |
+| [每日一图](https://github.com/lumianya/lumian-CloudFlare-ImgBed) | 柳神的每日一图自用 | <https://bing.kemeow.top> | ✅ |
