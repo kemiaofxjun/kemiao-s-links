@@ -110,3 +110,4 @@
 | [kemiao-YF-cloud](https://github.com/lumianya/YF-cloud) | YF-cloud资源分享平台| <https://fx.kemeow.top> | ✅ |
 | [kemiao-FlareDrive-R2 ](https://github.com/lumianya/kemiao-FlareDrive-R2)| 基于cloudflare的网盘 | <https://pan.kemeow.top> | ✅ |
 | [kemiao-next-chat](https://github.com/lumianya/kemiao-NextChat) | 克喵的ai页 | <https://ai.kemeow.top> | ✅ |
+| [克喵的相册馆](https://github.com/besscroft/PicImpact) | 基于PicImpact的相册馆 | <https://collection.kemeow.top> | ✅ |
