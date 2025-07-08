@@ -99,7 +99,7 @@
 | [LibreTV-kemiao](https://github.com/Kemeow815/LibreTV-kemiao) | 一键部署的影视站 | <https://tv.kemiaosw.top> | ✅ |
 | [uptime-status ](https://github.com/Kemeow815/Uptime-Status-kemiao)| 网站监测 | <https://status.kemeow.top> | ✅ |
 | [kemiao-memos](https://github.com/Kemeow815/kemiao-memos) | memos前端页面 | <https://moment.kemiaosw.top> | ✅ |
-| [lin-snow-Ech0](https://github.com/Kemeow815/kemiao-Ech0) | Ech0 - 开源、自托管、专注思想流动的轻量级发布平台 | <https://pyq.050815.xyz> | ✅ |
+| [lin-snow-Ech0](https://github.com/Kemeow815/kemiao-Ech0) | Ech0 - 开源、自托管、专注思想流动的轻量级发布平台 | <https://echo.050815.xyz> | ✅ |
 | [Moments](https://github.com/Kemeow815/kemiao-moments) | Moments朋友圈部署 | <https://moment.050815.xyz> | ✅ |
 | [kemiao-album](https://github.com/Kemeow815/kemiao-album) | 基于github的相册 | <https://photo.kemeow.top> | ✅ |
 | [icsfox](https://github.com/xiaopanglian/icefox) | typecho仿朋友圈主题 |<https://pyq.kemiao.online> | ✅ |
@@ -113,3 +113,4 @@
 | [克喵的相册馆](https://github.com/besscroft/PicImpact) | 基于PicImpact的相册馆 | <https://collection.kemeow.top> | ✅ |
 | [克喵的imgbed](https://github.com/lumianya/lumian-CloudFlare-ImgBed) | cloudflare的imgbed | <https://imgbed.kemeow.top> | ✅ |
 | [每日一图](https://github.com/lumianya/lumian-CloudFlare-ImgBed) | 柳神的每日一图自用 | <https://bing.kemeow.top> | ✅ |
+| [memosbbs](https://github.com/lumianya/lumian-memobbs) | 一个聚合Memos | <https://memos.kemeow.top> | ✅ |
