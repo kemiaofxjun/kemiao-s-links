@@ -11,7 +11,7 @@
 | [meter-kemiao-blog](https://github.com/Kemeow815/meter-kemiao-blog) | <https://blogs.kemiao.online> |Devaradise模板魔改 | 
 | [hugo-moment](https://github.com/Kemeow815/Moments_kemiao) | <https://moments.kemiao.online> | 基于 hugo 的moment主题 |
 | [hexo-sea](https://github.com/Kemeow815/hexo-sea-kemaio) | <https://sea.kemiao.online> |
-| [kemiao-astro-theme-pure](https://github.com/Kemeow815/kemiao-astro-theme-pure) | <https://kmblog.kemeow.top> | astro-pure 的博客自用 |
+| [kemiao-astro-theme-pure](https://github.com/lumianya/lumian-astro-theme-pure) | <https://kmblog.kemeow.top> | astro-pure 的博客自用 |
 | [suzublog](https://github.com/Kemeow815/kemiao-suzu-blog) | <https://me.kemeow.top> | 基于suzublog 的博客 |
 | [vhastro](https://github.com/Kemeow815/vhAstro--kemiao) | <https://zhan.kemiao.online> | vhAstro 的博客二改 |
 | [hexo-shokax ](https://github.com/Kemeow815/hexo-shokax-kemiao)| <https://shokax.kemeow.top> |
@@ -38,8 +38,8 @@
 | [remio-home-kemiao](https://github.com/Kemeow815/remio-home-kemiao) | <https://i.kemiaosw.top> |
 | [homepage-for-vue3](https://github.com/Kemeow815/homepage-for-vue3) | <https://hi.kemiaosw.top> |
 | [kemiao-Home](https://github.com/Kemeow815/kemiao-Home) | <https://hi.kemeow.top> |
-| [AboutPage](https://github.com/Kemeow815/AboutPage) | <https://home.kemiaosw.top> |
-| [HomePage_kemiao](https://github.com/Kemeow815/HomePage_kemiao) | <https://home.kemeow.top> |
+| [关于Page](https://github.com/Kemeow815/AboutPage) | <https://home.kemiaosw.top> |
+| [主页Page_kemiao](https://github.com/Kemeow815/HomePage_kemiao) | <https://home.kemeow.top> |
 | [hope-vuepress-kemiao](https://github.com/Kemeow815/hope-vuepress-kemiao) | <https://i.kemeow.cn> |
 | [guide-kemiao](https://github.com/Kemeow815/guide-kemiao) | <https://home.152531.xyz> |
 | [下一处blog-kemiao](https://github.com/Kemeow815/nextblog-kemiao) | <https://blog.152531.xyz> |
