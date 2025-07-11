@@ -114,3 +114,5 @@
 | [克喵的imgbed](https://github.com/lumianya/lumian-CloudFlare-ImgBed) | cloudflare的imgbed | <https://imgbed.kemeow.top> | ✅ |
 | [每日一图](https://github.com/lumianya/lumian-CloudFlare-ImgBed) | 柳神的每日一图自用 | <https://bing.kemeow.top> | ✅ |
 | [memosbbs](https://github.com/lumianya/lumian-memobbs) | 一个聚合Memos | <https://memos.kemeow.top> | ✅ |
+| [openlist](https://github.com/lumianya/kemiao-OpenList) | A new AList Fork to Anti Trust Crisis | <https://alist.kemeow.top> | ✅ |
+| [Substracker](https://github.com/lumianya/lumian-SubsTracker) | 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间 | <https://sub.kemeow.top> | ✅ |
