@@ -80,6 +80,7 @@
 | [kemiao-twiify-home-page](https://github.com/Kemeow815/kemiao-twiify-home-page) | <https://homepage.kemeow.top> | My personal website homepage. | 
 | [github-gwitter](https://github.com/Kemeow815/kemiao-Gwitter) | <https://pyq.kemiaosw.top> | 基于Github issues的microblog |
 | [astro-theme-code](https://github.com/Kemeow815/kemiao-astro-theme-code) | <https://myblog.050815.xyz> | 一个简单的 Astro 博客主题。 |
+| [typecho-butterfly](https://github.com/jkjoy/Typecho-Butterfly) | <https://flyme.050815.xyz> | 一个typecho的butterfly主题 |
 
 ---
 
@@ -119,3 +120,5 @@
 | [卜算子](https://github.com/soxft/busuanzi) | 网站统计服务 | <https://busuanzi.050815.xyz> | ✅ |
 | [artalk评论](https://github.com/ArtalkJS/Artalk) | 自托管评论系统 | <https://artalk.050815.xyz> | ✅ |
 | [twikoo评论系统](https://github.com/twikoojs/twikoo) | 最常用的评论系统 | <https://kemiao-twikoo.050815.xyz> | ✅ |
+| [typecho-memos](https://github.com/jkjoy/Typecho-Theme-Memos) | 基于typecho的memos | <https://pyq.081531.xyz> | ✅ |
+| [typecho-reborn](https://shawnzeng.com/archives/30/) | 又一仿朋友圈主题 | <https://moment.081531.xyz> | ✅ |
