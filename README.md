@@ -116,3 +116,6 @@
 | [memosbbs](https://github.com/lumianya/lumian-memobbs) | 一个聚合Memos | <https://memos.kemeow.top> | ✅ |
 | [openlist](https://github.com/lumianya/kemiao-OpenList) | A new AList Fork to Anti Trust Crisis | <https://alist.kemeow.top> | ✅ |
 | [Substracker](https://github.com/lumianya/lumian-SubsTracker) | 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间 | <https://sub.kemeow.top> | ✅ |
+| [卜算子](https://github.com/soxft/busuanzi) | 网站统计服务 | <https://busuanzi.050815.xyz> | ✅ |
+| [artalk评论](https://github.com/ArtalkJS/Artalk) | 自托管评论系统 | <https://artalk.050815.xyz> | ✅ |
+| [twikoo评论系统](https://github.com/twikoojs/twikoo) | 最常用的评论系统 | <https://kemiao-twikoo.050815.xyz> | ✅ |
