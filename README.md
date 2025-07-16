@@ -80,7 +80,7 @@
 | [kemiao-twiify-home-page](https://github.com/Kemeow815/kemiao-twiify-home-page) | <https://homepage.kemeow.top> | My personal website homepage. | 
 | [github-gwitter](https://github.com/Kemeow815/kemiao-Gwitter) | <https://pyq.kemiaosw.top> | 基于Github issues的microblog |
 | [astro-theme-code](https://github.com/Kemeow815/kemiao-astro-theme-code) | <https://myblog.050815.xyz> | 一个简单的 Astro 博客主题。 |
-| [typecho-butterfly](https://github.com/jkjoy/Typecho-Butterfly) | <https://flyme.050815.xyz> | 一个typecho的butterfly主题 |
+| [typecho-bearsimple](https://github.com/whitebearcode/typecho-bearsimple) | <https://blogs.050815.xyz> | 一个typecho的bearsimple主题 |
 
 ---
 
