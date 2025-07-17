@@ -122,3 +122,6 @@
 | [twikoo评论系统](https://github.com/twikoojs/twikoo) | 最常用的评论系统 | <https://kemiao-twikoo.050815.xyz> | ✅ |
 | [typecho-memos](https://github.com/jkjoy/Typecho-Theme-Memos) | 基于typecho的memos | <https://pyq.081531.xyz> | ✅ |
 | [typecho-reborn](https://shawnzeng.com/archives/30/) | 又一仿朋友圈主题 | <https://moment.081531.xyz> | ✅ |
+| [telegeam-image](https://github.com/lumianya/lumian-Telegraph-Image) | tg的图床 | <https://imgtg.kemeow.top> | ✅ |
+| [check-flink](https://github.com/lumianya/lumian-check-flink) | 检查友链情况 | <https://check-flink.kemeow.top> | ✅ |
+| [notepad](https://github.com/lumianya/lumian-serverless-cloud-notepad) | 基于vercel的笔记 | <https://botepad.kemeow.top> | ✅ |
