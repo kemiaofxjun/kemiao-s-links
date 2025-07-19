@@ -93,7 +93,7 @@
 | [kemiao-icon](https://github.com/Kemeow815/kemiao-icon) | 一个简单的工具，让你可以在完全不会图标设计的情况下，得到一个尚可使用的图标。 | <https://icon.kemeow.top> | ✅ |
 | [Umami](https://github.com/Kemeow815/umami-kemiao) | 克喵的Umami自建服务 | <https://unami-kemiao.kemiaosw.top> | ✅ |
 | [static](https://github.com/Kemeow815/cssjs) | 一些资源如css、js的存放仓库 | <https://source.314926.xyz> | ✅ |
-| [Feedme](https://github.com/Kemeow815/kemiao-FeedMe) | 用 AI 重新定义你的 RSS 阅读体验，轻松部署到 GitHub Pages / Docker | <https://feedme.kemeow.top> | ✅ |
+| [Feedme](https://github.com/Kemeow815/kemiao-FeedMe) | 用 AI 重新定义你的 RSS 阅读体验，轻松部署到 GitHub Pages / Docker | <https://feedme.kemiaosw.top> | ✅ |
 | [meting api](https://github.com/Kemeow815/kemiao-meting) | 克喵的自建meting-api | <https://meting.kemiaosw.top> | ✅ |
 | [keMiao Music](https://github.com/Kemeow815/HeoMusic) | 基于张洪heo的Heo Music | <https://music.kemiao.online> | ✅ |
 | [网易云音乐api](https://github.com/Kemeow815/NeteaseCloudMusicApiBackup) | 张洪heo的heomusic可用的api | <https://netease-api.kemiaosw.top/> | ✅ |
@@ -126,3 +126,4 @@
 | [check-flink](https://github.com/lumianya/lumian-check-flink) | 检查友链情况 | <https://check-flink.kemeow.top> | ✅ |
 | [notepad](https://github.com/lumianya/lumian-serverless-cloud-notepad) | 基于vercel的笔记 | <https://botepad.kemeow.top> | ✅ |
 | [kemiao-moepush](https://github.com/lumianya/lumian-moepush) | 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务 | <https://moepush.261770.xyz> | ✅ |
+| [rss-worker](https://github.com/lumianya/lumian-rss-worker) | rss订阅 | <https://feed.kemeow.top> | ✅ |
