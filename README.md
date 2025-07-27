@@ -46,8 +46,6 @@
 | [astro-mecure-kemiao](https://github.com/Kemeow815/astro-mecure-kemiao) | <https://blog.kemiao.xyz> |
 | [nuxt-profilo](https://github.com/Kemeow815/nuxt-profilo) | <https://home.kemiao.xyz> |
 | [rin](https://github.com/Kemeow815/Rin-kemiao) | <https://www.kemiao.xyz> |
-| typecho | <https://boke.kemiao.xyz> | cuckoo主题，暂时放弃 |
-| wordpress | <https://myblog.152531.xyz> |
 | [wechat-kemiao](https://github.com/Kemeow815/Wechat-kemiao) | <https://wechat.kemeow.top> |
 | [donate-kemiao](https://github.com/Kemeow815/donate-kemiao) | <https://donate.152531.xyz> |
 | [Triangle-blog](https://github.com/Kemeow815/Triangle-blog) | <https://boke.152531.xyz> | 暂时放弃，未来可能恢复 |
@@ -81,7 +79,11 @@
 | [github-gwitter](https://github.com/Kemeow815/kemiao-Gwitter) | <https://pyq.kemiaosw.top> | 基于Github issues的microblog |
 | [astro-theme-code](https://github.com/Kemeow815/kemiao-astro-theme-code) | <https://myblog.050815.xyz> | 一个简单的 Astro 博客主题。 |
 | [typecho-bearsimple](https://github.com/whitebearcode/typecho-bearsimple) | <https://blogs.050815.xyz> | 一个typecho的bearsimple主题 |
-
+| [oneblog](https://github.com/LawyerLu/OneBlog) | <https://blog.051531.xyz> | 一款简约清新文艺的写作记录类单栏主题 |
+| [Jasmine](https://github.com/liaocp666/Jasmine) | <https://myblog.081531.xyz> | Jasmine，一款精致的Typecho博客主题 |
+| [Wordpress-puock](https://github.com/Licoy/wordpress-theme-puock) | <https://myblog.051531.xyz> | 一款基于WordPress开发的高颜值的自适应主题 | 
+| [wordpress-樱花](https://github.com/mirai-mamori/Sakurairo) | <https://me.051531.xyz> | 基于 Sakura 主题 | 
+ 
 ---
 
 ## 自用服务
