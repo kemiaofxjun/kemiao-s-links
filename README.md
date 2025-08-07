@@ -103,7 +103,7 @@
 | [uptime-status ](https://github.com/Kemeow815/Uptime-Status-kemiao)| 网站监测 | <https://status.kemeow.top> | ✅ |
 | [kemiao-memos](https://github.com/Kemeow815/kemiao-memos) | memos前端页面 | <https://moment.kemiaosw.top> | ✅ |
 | [lin-snow-Ech0](https://github.com/Kemeow815/kemiao-Ech0) | Ech0 - 开源、自托管、专注思想流动的轻量级发布平台 | <https://echo.050815.xyz> | ✅ |
-| [Moments](https://github.com/Kemeow815/kemiao-moments) | Moments朋友圈部署 | <https://moment.050815.xyz> | ✅ |
+| [Moments](https://github.com/Kemeow815/kemiao-moments) | Moments朋友圈部署 | <https://moment.051531.xyz> | ✅ |
 | [kemiao-album](https://github.com/Kemeow815/kemiao-album) | 基于github的相册 | <https://photo.kemeow.top> | ✅ |
 | [icsfox](https://github.com/xiaopanglian/icefox) | typecho仿朋友圈主题 |<https://pyq.kemiao.online> | ✅ |
 | [TimePlus](https://github.com/zhheo/TimePlus) | 张洪的timePlus自用 | <https://photo.kemiao.online> | ✅ |
