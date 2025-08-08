@@ -130,3 +130,4 @@
 | [kemiao-moepush](https://github.com/lumianya/lumian-moepush) | 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务 | <https://moepush.261770.xyz> | ✅ |
 | [rss-worker](https://github.com/lumianya/lumian-rss-worker) | rss订阅 | <https://feed.kemeow.top> | ✅ |
 | [网易云音乐卡片](https://github.com/Kemeow815/netease-card) | 顾名思义 | <https://netease-card.314926.xyz> | ✅ |
+| [hubproxy](https://github.com/sky22333/hubproxy) | 代理加速服务 | <https://gh.050815.xyz> | ✅ |
