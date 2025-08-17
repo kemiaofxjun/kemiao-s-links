@@ -83,7 +83,9 @@
 | [Jasmine](https://github.com/liaocp666/Jasmine) | <https://myblog.081531.xyz> | Jasmine，一款精致的Typecho博客主题 |
 | [Wordpress-puock](https://github.com/Licoy/wordpress-theme-puock) | <https://myblog.051531.xyz> | 一款基于WordPress开发的高颜值的自适应主题 | 
 | [wordpress-樱花](https://github.com/mirai-mamori/Sakurairo) | <https://me.051531.xyz> | 基于 Sakura 主题 | 
- 
+| hexo-solitude | <https://myboke.kemiaosw.top> hexo的solitude主题 |
+| halo-hao | <https://hao.kemeow.top> | halo的hao主题 |
+
 ---
 
 ## 自用服务
