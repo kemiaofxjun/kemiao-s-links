@@ -89,6 +89,7 @@
 ## 自用服务
 | 名称 | 简介 | 网址 | 是否可用 |
 | :---: | :---: | :---: | :---: |
+| [typecho-memos](https://github.com/jkjoy/Typecho-Theme-Memos) |typecho的一款memos说说主题 | <https://read.050815.xyz> | ✅ |
 | [CloudPaste](https://github.com/Kemeow815/kemiao-CloudPaste) | 于 Cloudflare 的在线剪贴板和文件分享服务，支持 Markdown 编辑和文件上传 | <https://cloud.kemeow.top> | ✅ |
 | [Kemiao-Cover](https://github.com/Kemeow815/kemiao-Mini-Cover) | 简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面 | <https://cover.kemeow.top> | ✅ |
 | [kemiao-CoverView](https://github.com/Kemeow815/kemiao-CoverView) | 封面生成器 | <https://coverview.kemeow.top> | ✅ |
@@ -131,3 +132,4 @@
 | [rss-worker](https://github.com/lumianya/lumian-rss-worker) | rss订阅 | <https://feed.kemeow.top> | ✅ |
 | [网易云音乐卡片](https://github.com/Kemeow815/netease-card) | 顾名思义 | <https://netease-card.314926.xyz> | ✅ |
 | [hubproxy](https://github.com/sky22333/hubproxy) | 代理加速服务 | <https://gh.050815.xyz> | ✅ |
+| [MeowNocode](https://github.com/kemiaofxjun/MeowNocode) | 无服务器的memos | <https://meow.kemeow.top> | ✅ |
