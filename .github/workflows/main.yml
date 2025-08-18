@@ -15,7 +15,7 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.head.sha }}
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          check-name: 'build-and-test'               # 改成你的 CI job 名
+          check-name: 'merge'               # 改成你的 CI job 名
           wait-interval: 30
       - name: 自动合并
         uses: pascalgn/automerge-action@v0.15.6
