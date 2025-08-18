@@ -1,38 +1,39 @@
-# .github/workflows/auto-merge-pr.yml
-name: Auto-merge PR
+# .github/workflows/auto-merge.yml
+name: Auto-merge Pull Request
 
 on:
-  # 每次 PR 状态更新（新 commit、CI 完成、review 提交等）
   pull_request:
     types:
       - opened
-      - edited
-      - synchronize
-      - labeled
-      - unlabeled
-  # 当外部检查完成（CI 成功/失败）
-  check_suite:
-    types: [completed]
+      - synchronize          # 新 commit
+      - ready_for_review     # 从 draft 变为 ready
+      - review_requested     # 有人被请求 review
+  pull_request_review:
+    types:
+      - submitted            # review 提交
+  check_suite:              # CI 跑完
+    types:
+      - completed
 
 permissions:
-  contents: write        # 合并 PR 需要写权限
-  pull-requests: write   # 打标签、评论、删除分支
+  contents: write           # 合并 PR 需要写权限
+  pull-requests: write      # 操作 PR 需要写权限
+  checks: read              # 读 CI 状态
 
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
     steps:
-      # 1. 检查 PR 是否满足自动合并条件
-      - name: Auto-merge if labeled and ready
-        uses: pascalgn/merge-action@v0.16.3
+      - name: Auto-merge PR
+        uses: pascalgn/merge-action@v0.18.0
         with:
-          # 仅当 PR 带有指定标签时自动合并
-          labels: auto-merge
-          # 合并策略：squash / merge / rebase
-          merge-method: squash
-          # 合并后自动删除源分支
-          delete-branch: true
-          # PR 标题作为提交信息
-          squash-title: true
+          # 触发合并的条件
+          merge_method: squash          # squash/merge/rebase
+          # 当 PR 标题包含 `[auto]` 且 CI 通过时自动合并
+          merge_filter: |
+            title.includes('[auto]')
+          # 可以改成：
+          # merge_filter: |
+          #   labels.includes('automerge') && check_success('ci')
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
