@@ -10,19 +10,8 @@
 | [kemiao-astro-blog](https://github.com/Kemeow815/kemiao-astro-blog) | <https://myblogs.kemiao.online> | astropaper魔改 |
 | [meter-kemiao-blog](https://github.com/Kemeow815/meter-kemiao-blog) | <https://blogs.kemiao.online> |Devaradise模板魔改 | 
 | [hugo-moment](https://github.com/Kemeow815/Moments_kemiao) | <https://moments.kemiao.online> | 基于 hugo 的moment主题 |
-| [hexo-sea](https://github.com/Kemeow815/hexo-sea-kemaio) | <https://sea.kemiao.online> |
 | [kemiao-astro-theme-pure](https://github.com/lumianya/lumian-astro-theme-pure) | <https://kmblog.kemeow.top> | astro-pure 的博客自用 |
-| [suzublog](https://github.com/Kemeow815/kemiao-suzu-blog) | <https://me.kemeow.top> | 基于suzublog 的博客 |
-| [vhastro](https://github.com/Kemeow815/vhAstro--kemiao) | <https://zhan.kemiao.online> | vhAstro 的博客二改 |
-| [hexo-shokax ](https://github.com/Kemeow815/hexo-shokax-kemiao)| <https://shokax.kemeow.top> |
-| [hexo-stellar-mogai](https://github.com/Kemeow815/hexo-stellar-mogai) | <https://stellar-blog.kemiao.online> |
-| [memobbs-kemiao](https://github.com/Kemeow815/memobbs-kemiao) | <https://memobbs.kemiao.online> |
-| [memos-stellar](https://github.com/Kemeow815/memos-stellar) | <https://memos.kemiaosw.top> |
-| [hexo-kratos](https://github.com/Kemeow815/hexo-kratos-kemiao-blog) | <https://site.kemeow.cn> |
 | [site-status](https://github.com/Kemeow815/site-status-kemiao-ims) | <https://status.kemeow.cn> |
-| [hexo-fluid](https://github.com/Kemeow815/hexo-fluid-kemiao) | <https://star.kemeow.cn> |
-| [hexo-cards](https://github.com/Kemeow815/hexo-cards-kemiao) | <https://net.kemeow.cn> |
-| [nuxt3-blog](https://github.com/Kemeow815/nuxt3-blog/tree/master) | <https://nuxt.kemiaosw.top> | 克喵的 nuxt3 博客 |
 | [HeoMusic](https://github.com/Kemeow815/HeoMusic) | <https://music.kemiao.online> | 基于 HeoMusic 的二改音乐播放器 |
 | [plain-blog](https://github.com/Kemeow815/plain-blog-kemiao) | <https://me.kemeow.cn> | wallleap 的 plain 主题 |
 | [jekyll-theme-chirpy](https://github.com/Kemeow815/kemiao-blog-chripy) | <https://me.kemiaosw.top> | jekyll博客的 chripy 主题 |
@@ -30,7 +19,6 @@
 | [astro-blog-CN](https://github.com/Kemeow815/astro-blog) | <https://myblog.kemeow.cn> | github issue的博客，基于仙人掌博客的二改 |
 | [gblog-kemiao](https://github.com/Kemeow815/gblog-kemiao) | <https://www.kemiaosw.top> |
 | [kemiao-homepage](https://github.com/Kemeow815/Soopy-kemiao) | <https://kemiaofx.cn> |
-| [LibreTV-kemiao](https://github.com/Kemeow815/LibreTV-kemiao) | <https://tv.kemeow.top> |
 | [php-homepage](https://github.com/Kemeow815/php-homepage) | <https://home.kemiaofx.cn> |
 | [Home-Vue](https://github.com/Kemeow815/Home-Vue) | <https://kemiao.online> |
 | [kemiao-home-page](https://github.com/Kemeow815/kemiao-home-page) | <https://www.kemeow.top> |
@@ -42,13 +30,12 @@
 | [主页Page_kemiao](https://github.com/Kemeow815/HomePage_kemiao) | <https://home.kemeow.top> |
 | [hope-vuepress-kemiao](https://github.com/Kemeow815/hope-vuepress-kemiao) | <https://i.kemeow.cn> |
 | [guide-kemiao](https://github.com/Kemeow815/guide-kemiao) | <https://home.152531.xyz> |
-| [下一处blog-kemiao](https://github.com/Kemeow815/nextblog-kemiao) | <https://blog.152531.xyz> |
+| [nextblog-kemiao](https://github.com/Kemeow815/nextblog-kemiao) | <https://blog.152531.xyz> |
 | [astro-mecure-kemiao](https://github.com/Kemeow815/astro-mecure-kemiao) | <https://blog.kemiao.xyz> |
 | [nuxt-profilo](https://github.com/Kemeow815/nuxt-profilo) | <https://home.kemiao.xyz> |
 | [rin](https://github.com/Kemeow815/Rin-kemiao) | <https://www.kemiao.xyz> |
 | [wechat-kemiao](https://github.com/Kemeow815/Wechat-kemiao) | <https://wechat.kemeow.top> |
 | [donate-kemiao](https://github.com/Kemeow815/donate-kemiao) | <https://donate.152531.xyz> |
-| [Triangle-blog](https://github.com/Kemeow815/Triangle-blog) | <https://boke.152531.xyz> | 暂时放弃，未来可能恢复 |
 | [Kemiaojun.github.io](https://github.com/Kemiaojun/Kemiaojun.github.io) | <https://blog.kemiao.site> |
 | [blog-zhangyu](https://github.com/Kemiaojun/blog-kemiao-zhangyu) | <https://www.kemiao.site> |
 | [tinymind-blog](https://github.com/Kemeow815/tinymind-blog) | <https://tinymind.me/Kemeow815>，<https://mind.kemiaosw.top> | 一个可以在线上写文章和想法的博客 |
@@ -79,7 +66,7 @@
 | [github-gwitter](https://github.com/Kemeow815/kemiao-Gwitter) | <https://pyq.kemiaosw.top> | 基于Github issues的microblog |
 | [astro-theme-code](https://github.com/Kemeow815/kemiao-astro-theme-code) | <https://myblog.050815.xyz> | 一个简单的 Astro 博客主题。 |
 | [typecho-bearsimple](https://github.com/whitebearcode/typecho-bearsimple) | <https://blogs.050815.xyz> | 一个typecho的bearsimple主题 |
-| [oneblog](https://github.com/LawyerLu/OneBlog) | <https://blog.051531.xyz> | 一款简约清新文艺的写作记录类单栏主题 |
+| [Butterfly](https://github.com/wehaox/Typecho-Butterfly) | <https://blog.051531.xyz> | Hexo主题Butterfly的Typecho移植版 |
 | [Jasmine](https://github.com/liaocp666/Jasmine) | <https://myblog.081531.xyz> | Jasmine，一款精致的Typecho博客主题 |
 | [Wordpress-puock](https://github.com/Licoy/wordpress-theme-puock) | <https://myblog.051531.xyz> | 一款基于WordPress开发的高颜值的自适应主题 | 
 | [wordpress-樱花](https://github.com/mirai-mamori/Sakurairo) | <https://me.051531.xyz> | 基于 Sakura 主题 | 
