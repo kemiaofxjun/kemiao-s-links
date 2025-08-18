@@ -14,11 +14,11 @@ jobs:
         uses: lewagon/wait-on-check-action@v1.3.1   # 可选：等 CI
         with:
           ref: ${{ github.event.pull_request.head.sha }}
-          repo-token: ${{ secrets.GH_TOKEN }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
           check-name: 'build-and-test'               # 改成你的 CI job 名
           wait-interval: 30
       - name: 自动合并
         uses: pascalgn/automerge-action@v0.15.6
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MERGE_METHOD: squash                       # 可选：merge / squash / rebase
