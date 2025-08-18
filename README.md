@@ -106,7 +106,7 @@
 | [lin-snow-Ech0](https://github.com/Kemeow815/kemiao-Ech0) | Ech0 - 开源、自托管、专注思想流动的轻量级发布平台 | <https://echo.050815.xyz> | ✅ |
 | [Moments](https://github.com/Kemeow815/kemiao-moments) | Moments朋友圈部署 | <https://moment.051531.xyz> | ✅ |
 | [kemiao-album](https://github.com/Kemeow815/kemiao-album) | 基于github的相册 | <https://photo.kemeow.top> | ✅ |
-| [icsfox](https://github.com/xiaopanglian/icefox) | typecho仿朋友圈主题 |<https://pyq.kemiao.online> | ✅ |
+| [icefox](https://github.com/xiaopanglian/icefox) | typecho仿朋友圈主题 |<https://pyq.081531.xyz> | ✅ |
 | [TimePlus](https://github.com/zhheo/TimePlus) | 张洪的timePlus自用 | <https://photo.kemiao.online> | ✅ |
 | [rss-beauty](https://github.com/Kemeow815/kemiao-RSS.Beauty) | Make Your RSS Beautiful! | <https://rss.kemeow.top> | ✅ |
 | [BroadcastChannel](https://github.com/Kemeow815/BroadcastChannel) | 克喵的电报动态说说 | <https://shuoshuo.kemiao.online> | ✅ |
@@ -133,4 +133,4 @@
 | [网易云音乐卡片](https://github.com/Kemeow815/netease-card) | 顾名思义 | <https://netease-card.314926.xyz> | ✅ |
 | [hubproxy](https://github.com/sky22333/hubproxy) | 代理加速服务 | <https://gh.050815.xyz> | ✅ |
 | [MeowNocode](https://github.com/kemiaofxjun/MeowNocode) | 无服务器的memos | <https://meow.kemeow.top> | ✅ |
-| Qexo | Hexo的管理后台 | <https://qexo.kemeow.top> | ✅ |
+| [Qexo](https://github.com/kemiaofxjun/hexo-qexo) | Hexo的管理后台 | <https://qexo.kemeow.top> | ✅ |
