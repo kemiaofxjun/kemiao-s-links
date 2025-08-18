@@ -19,7 +19,6 @@
 | [astro-blog-CN](https://github.com/Kemeow815/astro-blog) | <https://myblog.kemeow.cn> | github issue的博客，基于仙人掌博客的二改 |
 | [gblog-kemiao](https://github.com/Kemeow815/gblog-kemiao) | <https://www.kemiaosw.top> |
 | [kemiao-homepage](https://github.com/Kemeow815/Soopy-kemiao) | <https://kemiaofx.cn> |
-| [LibreTV-kemiao](https://github.com/Kemeow815/LibreTV-kemiao) | <https://tv.kemeow.top> |
 | [php-homepage](https://github.com/Kemeow815/php-homepage) | <https://home.kemiaofx.cn> |
 | [Home-Vue](https://github.com/Kemeow815/Home-Vue) | <https://kemiao.online> |
 | [kemiao-home-page](https://github.com/Kemeow815/kemiao-home-page) | <https://www.kemeow.top> |
