@@ -133,3 +133,4 @@
 | [网易云音乐卡片](https://github.com/Kemeow815/netease-card) | 顾名思义 | <https://netease-card.314926.xyz> | ✅ |
 | [hubproxy](https://github.com/sky22333/hubproxy) | 代理加速服务 | <https://gh.050815.xyz> | ✅ |
 | [MeowNocode](https://github.com/kemiaofxjun/MeowNocode) | 无服务器的memos | <https://meow.kemeow.top> | ✅ |
+| Qexo | Hexo的管理后台 | <https://qexo.kemeow.top> | ✅ |
