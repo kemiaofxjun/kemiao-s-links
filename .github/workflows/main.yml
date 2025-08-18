@@ -1,24 +1,38 @@
-name: Auto merge & push
+# .github/workflows/auto-merge-pr.yml
+name: Auto-merge PR
+
 on:
+  # 每次 PR 状态更新（新 commit、CI 完成、review 提交等）
   pull_request:
-    types: [opened, synchronize]   # PR 更新时触发
+    types:
+      - opened
+      - edited
+      - synchronize
+      - labeled
+      - unlabeled
+  # 当外部检查完成（CI 成功/失败）
+  check_suite:
+    types: [completed]
+
+permissions:
+  contents: write        # 合并 PR 需要写权限
+  pull-requests: write   # 打标签、评论、删除分支
+
 jobs:
-  merge:
+  auto-merge:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
     steps:
-      - uses: actions/checkout@v4
-      - name: 等待 CI 全部通过
-        uses: lewagon/wait-on-check-action@v1.3.1   # 可选：等 CI
+      # 1. 检查 PR 是否满足自动合并条件
+      - name: Auto-merge if labeled and ready
+        uses: pascalgn/merge-action@v0.16.3
         with:
-          ref: ${{ github.event.pull_request.head.sha }}
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          check-name: 'merge'               # 改成你的 CI job 名
-          wait-interval: 30
-      - name: 自动合并
-        uses: pascalgn/automerge-action@v0.15.6
+          # 仅当 PR 带有指定标签时自动合并
+          labels: auto-merge
+          # 合并策略：squash / merge / rebase
+          merge-method: squash
+          # 合并后自动删除源分支
+          delete-branch: true
+          # PR 标题作为提交信息
+          squash-title: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MERGE_METHOD: squash                       # 可选：merge / squash / rebase
