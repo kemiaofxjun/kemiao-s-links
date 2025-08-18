@@ -40,7 +40,6 @@
 | [kemiao-Home](https://github.com/Kemeow815/kemiao-Home) | <https://hi.kemeow.top> |
 | [关于Page](https://github.com/Kemeow815/AboutPage) | <https://home.kemiaosw.top> |
 | [主页Page_kemiao](https://github.com/Kemeow815/HomePage_kemiao) | <https://home.kemeow.top> |
-| [hope-vuepress-kemiao](https://github.com/Kemeow815/hope-vuepress-kemiao) | <https://i.kemeow.cn> |
 | [guide-kemiao](https://github.com/Kemeow815/guide-kemiao) | <https://home.152531.xyz> |
 | [下一处blog-kemiao](https://github.com/Kemeow815/nextblog-kemiao) | <https://blog.152531.xyz> |
 | [astro-mecure-kemiao](https://github.com/Kemeow815/astro-mecure-kemiao) | <https://blog.kemiao.xyz> |
@@ -73,7 +72,6 @@
 | [kemiao-astro-cactus](https://github.com/Kemeow815/kemiao-astro-cactus) | <https://blog-v6.kemiaosw.top> | 克喵的仙人掌主题astro博客二改 |
 | [kemiao-astro-aria](https://github.com/Kemeow815/kemiao-astro-aria) | <https://kemiaosw.top> | astro-aria主题博客自用 |
 | [kemiao-astro-stalux](https://github.com/Kemeow815/kemiao-astro-stalux) | <https://blog.050815.xyz> | Stalux - 高效、美观、灵活的 Astro 博客 |
-| [kemiao-hugo-bear](https://github.com/Kemeow815/kemiao-hugo-blog-bear) | <https://blog.kemiaosw.top> | hugo的bear主题 |
 | [iblog](https://github.com/Kemeow815/kemiao-IBlog) | <https://home.050815.xyz> | iblog主页 |
 | [kemiao-twiify-home-page](https://github.com/Kemeow815/kemiao-twiify-home-page) | <https://homepage.kemeow.top> | My personal website homepage. | 
 | [github-gwitter](https://github.com/Kemeow815/kemiao-Gwitter) | <https://pyq.kemiaosw.top> | 基于Github issues的microblog |
