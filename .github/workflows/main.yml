@@ -1,32 +1,24 @@
-# .github/workflows/auto-merge.yml
-name: Auto-merge PR
-
+name: automerge
 on:
-  pull_request:
-    types:
-      - opened
-      - synchronize
-      - ready_for_review
-  pull_request_review:
-    types:
-      - submitted
-  check_suite:
-    types:
-      - completed
+  pull_request:            # PR 新建/更新
+    types: [labeled, unlabeled, synchronize, opened, 编辑, ready_for_review, reopened]
+  pull_request_review:     # review 提交
+    types: [submitted]
+  check_suite:             # CI 跑完
+    types: [completed]
 
 permissions:
-  contents: write
+  contents: write          # 合并需要写权限
   pull-requests: write
-  checks: read
 
 jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
       - name: Auto-merge
-        uses: pascalgn/automerge-action@v0.16.3   # ✅ 正确的仓库与版本
+        uses: pascalgn/automerge-action@v0.16.4   # 官方稳定版
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MERGE_LABELS: "automerge"               # 当 PR 打上该标签时才会合并
-          MERGE_METHOD: squash
-          MERGE_COMMIT_MESSAGE: "pull-request-title"
+          MERGE_LABELS: "automerge,!wip"  # 只有被打上 `automerge` 标签且 *没有* `wip` 标签的 PR 才会被合并
+          MERGE_METHOD: "squash"          # 合并策略：merge / squash / rebase
+          MERGE_REQUIRED_APPROVALS: "1"   # 需要至少 1 个 approving review
