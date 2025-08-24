@@ -123,5 +123,5 @@
 | [hubproxy](https://github.com/sky22333/hubproxy) | 代理加速服务 | <https://gh.050815.xyz> | ✅ |
 | [MeowNocode](https://github.com/kemiaofxjun/MeowNocode) | 无服务器的memos | <https://meow.kemeow.top> | ✅ |
 | [Qexo](https://github.com/kemiaofxjun/hexo-qexo) | Hexo的管理后台 | <https://qexo.kemeow.top> | ✅ |
-| [github-stats](https://github.com/kemiaofxjun/readme) | <https://readme.kemeow.top> | Github的统计图 | ✅ |
-| [github-activity](https://github.com/kemiaofxjun/activity) | <https://activity.kemeow.top> | Github的活动图 | ✅ |
+| [github-stats](https://github.com/kemiaofxjun/readme) | Github的统计图 | <https://readme.kemeow.top> | ✅ |
+| [github-activity](https://github.com/kemiaofxjun/activity) | Github的活动图 | <https://activity.kemeow.top> | ✅ |
